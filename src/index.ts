@@ -54,4 +54,3 @@ async function getUser(username: string) {
 }
 
 getUser("admin1");
-//jjgiyuh
